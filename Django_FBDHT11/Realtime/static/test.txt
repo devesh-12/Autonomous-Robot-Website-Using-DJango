@@ -1,0 +1,5 @@
+hellooo
+<p>Bool value is {{channel_bool}}</p>
+<p>double value is {{channel_double}}</p>
+<p>float value is {{channel_float}}</p>
+<p>int value is {{channel_int}}</p>
